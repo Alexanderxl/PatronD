@@ -1,0 +1,16 @@
+C:\Users\Luis Alexander\source\repos\PatronesDesing\PatronesDesing\obj\Debug\net5.0\PatronesDesing.csproj.AssemblyReference.cache
+C:\Users\Luis Alexander\source\repos\PatronesDesing\PatronesDesing\obj\Debug\net5.0\PatronesDesing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Alexander\source\repos\PatronesDesing\PatronesDesing\obj\Debug\net5.0\PatronesDesing.AssemblyInfoInputs.cache
+C:\Users\Luis Alexander\source\repos\PatronesDesing\PatronesDesing\obj\Debug\net5.0\PatronesDesing.AssemblyInfo.cs
+C:\Users\Luis Alexander\source\repos\PatronesDesing\PatronesDesing\obj\Debug\net5.0\PatronesDesing.csproj.CoreCompileInputs.cache
+C:\Users\Luis Alexander\source\repos\PatronesDesing\PatronesDesing\bin\Debug\net5.0\PatronesDesing.exe
+C:\Users\Luis Alexander\source\repos\PatronesDesing\PatronesDesing\bin\Debug\net5.0\PatronesDesing.deps.json
+C:\Users\Luis Alexander\source\repos\PatronesDesing\PatronesDesing\bin\Debug\net5.0\PatronesDesing.runtimeconfig.json
+C:\Users\Luis Alexander\source\repos\PatronesDesing\PatronesDesing\bin\Debug\net5.0\PatronesDesing.runtimeconfig.dev.json
+C:\Users\Luis Alexander\source\repos\PatronesDesing\PatronesDesing\bin\Debug\net5.0\PatronesDesing.dll
+C:\Users\Luis Alexander\source\repos\PatronesDesing\PatronesDesing\bin\Debug\net5.0\ref\PatronesDesing.dll
+C:\Users\Luis Alexander\source\repos\PatronesDesing\PatronesDesing\bin\Debug\net5.0\PatronesDesing.pdb
+C:\Users\Luis Alexander\source\repos\PatronesDesing\PatronesDesing\obj\Debug\net5.0\PatronesDesing.dll
+C:\Users\Luis Alexander\source\repos\PatronesDesing\PatronesDesing\obj\Debug\net5.0\ref\PatronesDesing.dll
+C:\Users\Luis Alexander\source\repos\PatronesDesing\PatronesDesing\obj\Debug\net5.0\PatronesDesing.pdb
+C:\Users\Luis Alexander\source\repos\PatronesDesing\PatronesDesing\obj\Debug\net5.0\PatronesDesing.genruntimeconfig.cache
